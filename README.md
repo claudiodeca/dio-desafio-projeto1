@@ -1,2 +1,2 @@
-# dio-desafio-projeto1
+# Primeiro Projeto do Desafio DIO-SANTANDER
 Primeiro projeto do curso SANTANDER
